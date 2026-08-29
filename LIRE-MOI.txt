@@ -7,7 +7,7 @@
 5. Confirme, connecte-toi avec TON Microsoft
 6. JOUER
    - Shader : Complementary. Decoche si le PC rame.
-   - Options : packs visuels, plein ecran, plus de mods (JEI / Litematica / IPN), pack redstone.
+   - Options : packs visuels, plein ecran, plus de mods, pack redstone, sous-marin.
    - Plus de mods et pack redstone sont off par defaut, puis le lanceur retient ton choix.
 
 Le lanceur verifie tout seul s'il est a jour (GitHub). Un bandeau propose la mise a jour : comptes, options et emplacement du dossier sont conserves.

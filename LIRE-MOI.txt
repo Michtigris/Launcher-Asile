@@ -1,0 +1,15 @@
+# Asile — installation joueurs
+
+1. Double-clic sur Asile-Install.exe
+2. Ca installe dans Documents\Asile et met un raccourci sur le bureau
+3. Clique Ouvrir Asile (ou l'icone bureau)
+4. + Ajouter un compte (exemple : MichaelJackson@gmail.com / Steve)
+5. Confirme, connecte-toi avec TON Microsoft
+6. JOUER
+   - Shader : Complementary. Decoche si le PC rame.
+   - Options : packs visuels, plein ecran, plus de mods (JEI / Litematica / IPN), pack redstone.
+   - Plus de mods et pack redstone sont off par defaut, puis le lanceur retient ton choix.
+
+Le lanceur verifie tout seul s'il est a jour (GitHub). Un bandeau propose la mise a jour : comptes, options et emplacement du dossier sont conserves.
+
+Minecraft Java 26.2 doit deja etre installe.
